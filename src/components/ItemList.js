@@ -1,4 +1,3 @@
-// ItemList.js
 import React, { useState } from 'react';
 
 const ItemList = () => {
@@ -13,7 +12,6 @@ const ItemList = () => {
       name: "Car",
       description: "I have i20 car, white in colour",
     },
-    // Add more items as needed
     {
       id: 3,
       name: "Scooty",
